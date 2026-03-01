@@ -24,7 +24,7 @@ azure-ai-ml==1.23.1
 # causing awscli to have incompatible botocore dependency (e.g., awscli 1.42.70
 # requires botocore==1.40.70, but we downgrade to 1.34.69).
 aiobotocore==2.12.3
-awscli==1.32.69
+awscli==1.44.38
 boto3==1.34.69
 botocore==1.34.69
 s3fs==2025.5.1
