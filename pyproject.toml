@@ -76,7 +76,7 @@ dev = [
     "pre-commit",
     "pyarrow>17", # Pinned to workaround cmake/pip error
     "pyspark==3.4.3",
-    "pytest<9",
+    "pytest<10",
     "tox",
     "vcrpy<5",
     "kubernetes==22.6",
